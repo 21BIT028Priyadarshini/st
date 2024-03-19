@@ -1,5 +1,5 @@
-#inclu<stdio.h>
+#include<stdio.h>
 in main()
 {
-prin("Hello");
+prin("Hello")
 }
